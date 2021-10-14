@@ -30,7 +30,7 @@ class Messages():
         
         "**Commmands**\n__/ForceSubscribe - Untuk mendapatkan pengaturan saat ini.\n/ForceSubscribe no/off/disable - Untuk mematikan ForceSubscribe.\n/ForceSubscribe {channel username} - Untuk mengaktifkan dan mengatur channel.\n/ForceSubscribe clear - Untuk membunyikan semua anggota yang dibisukan oleh saya.\n\nNote: /FSub adalah alias dari /ForceSubscribe__",
         
-        "**Bot ini milik by @DvrknessSupportGroup**"
+        "**Bot ini milik @DvrknessSupportGroup**"
       ]
 
       START_MSG = "**Hey [{}](tg://user?id={})**\n__Saya dapat memaksa anggota untuk bergabung dengan channel tertentu sebelum menulis pesan di grup.\nPelajari lebih lanjut di /help__"
