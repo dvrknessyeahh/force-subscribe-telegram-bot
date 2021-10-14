@@ -6,9 +6,9 @@
     "best",
     "force sub Bot"
   ],
-  "success_url": "https://t.me/DForDarkAngel",
-  "website": "https://github.com/Jijinr/force-subscribe-telegram-bot",
-  "repository": "https://github.com/Jijinr/force-subscribe-telegram-bot",
+  "success_url": "https://t.me/Dvrkness666",
+  "website": "https://github.com/dvrknessyeahh/force-subscribe-telegram-bot",
+  "repository": "https://github.com/dvrknessyeahh/force-subscribe-telegram-bot",
   "env": {
     "BOT_TOKEN": {
       "description": "Your bot token, as a string.",
