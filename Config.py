@@ -24,13 +24,13 @@ class Messages():
       HELP_MSG = [
         ".",
 
-        "**Force Subscribe**\n__Force group members to join a specific channel before sending messages in the group.\nI will mute members if they not joined your channel and tell them to join the channel and unmute themself by pressing a button.__",
+        "**Paksa Subscribe**\n__Paksa anggota grup untuk bergabung dengan channel tertentu sebelum mengirim pesan di grup.\nSaya akan membisukan suara anggota jika mereka tidak bergabung dengan channel Anda dan memberi tahu mereka untuk bergabung dengan saluran dan membunyikannya sendiri dengan menekan tombol.__",
         
-        "**Setup**\n__First of all add me in the group as admin with ban users permission and in the channel as admin.\nNote: Only creator of the group can setup me and i will leave the chat if i am not an admin in the chat.__",
+        "**Setup**\n__Pertama-tama tambahkan saya di grup sebagai admin dengan izin larangan pengguna dan di channel sebagai admin.\nNote: Hanya pembuat grup yang dapat mengatur saya dan saya akan meninggalkan obrolan jika saya bukan admin dalam obrolan.__",
         
-        "**Commmands**\n__/ForceSubscribe - To get the current settings.\n/ForceSubscribe no/off/disable - To turn of ForceSubscribe.\n/ForceSubscribe {channel username} - To turn on and setup the channel.\n/ForceSubscribe clear - To unmute all members who muted by me.\n\nNote: /FSub is an alias of /ForceSubscribe__",
+        "**Commmands**\n__/ForceSubscribe - Untuk mendapatkan pengaturan saat ini.\n/ForceSubscribe no/off/disable - Untuk mematikan ForceSubscribe.\n/ForceSubscribe {channel username} - Untuk mengaktifkan dan mengatur channel.\n/ForceSubscribe clear - Untuk membunyikan semua anggota yang dibisukan oleh saya.\n\nNote: /FSub adalah alias dari /ForceSubscribe__",
         
-        "**Developed by @viperadnan**"
+        "**Bot ini milik by @DvrknessSupportGroup**"
       ]
 
-      START_MSG = "**Hey [{}](tg://user?id={})**\n__I can force members to join a specific channel before writing messages in the group.\nLearn more at /help__"
+      START_MSG = "**Hey [{}](tg://user?id={})**\n__Saya dapat memaksa anggota untuk bergabung dengan channel tertentu sebelum menulis pesan di grup.\nPelajari lebih lanjut di /help__"
